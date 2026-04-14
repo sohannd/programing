@@ -1,3 +1,5 @@
+minibank.py
+__________________
 just at my bored time
 
 
@@ -7,3 +9,7 @@ username:SOHAN ND
 password:8891
 
 signup and others will be corrected soon
+
+
+>nmap.py
+____________
