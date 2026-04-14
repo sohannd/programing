@@ -1,4 +1,4 @@
-minibank.py
+>minibank.py
 __________________
 just at my bored time
 
