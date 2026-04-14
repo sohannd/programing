@@ -13,3 +13,4 @@ signup and others will be corrected soon
 
 >nmap.py
 ____________
+* It is a simple port scanner | a basic one.
