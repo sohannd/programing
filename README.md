@@ -1,7 +1,6 @@
 >minibank.py
-__________________
-just at my bored time
 
+just at my bored time
 
 login with only 
 hardcoded 
@@ -10,15 +9,15 @@ password:8891
 
 signup and others will be corrected soon
 still working*>>
-
+______________________________________________
 
 >nmap.py
-____________
+
 * It is a simple port scanner | a basic one.
+______________________________________________
   
 
 >Password checker
-____________________________
 
 
 check the password complexity..it will give you the necessary recommendations :)
