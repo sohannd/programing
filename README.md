@@ -21,3 +21,7 @@ ______________________________________________
 
 
 check the password complexity..it will give you the necessary recommendations :>
+_____________________________________________________
+>paragraph_edit.py
+
+*i used ai to replace some words in my paragraph,and it starts to give me wrong outputs,then i thought why should i can create a custom editing program,that's how my pragraph_edit.py program borns! :)
